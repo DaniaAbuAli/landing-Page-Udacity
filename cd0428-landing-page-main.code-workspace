@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../js-Dom-project-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cd0428-landing-page-main"
+	}
+}
